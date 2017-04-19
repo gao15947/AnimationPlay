@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_list">
+        <item>直播</item>
+        <item>推荐</item>
+        <item>分区</item>
+        <item>发现</item>
+    </string-array>
+
+    <string-array name="partition_list">
+        <item>番剧</item>
+        <item>动画</item>
+        <item>国创</item>
+        <item>音乐</item>
+        <item>舞蹈</item>
+        <item>游戏</item>
+        <item>科技</item>
+        <item>生活</item>
+        <item>鬼畜</item>
+        <item>娱乐</item>
+        <item>电影</item>
+        <item>电视剧</item>
+    </string-array>
+
+    <string-array name="bangumi_index_list">
+        <item>连载动画</item>
+        <item>完结动画</item>
+        <item>资讯</item>
+        <item>官方延伸</item>
+    </string-array>
+
+    <integer-array name="bangumi_id_list">
+        <item>33</item>
+        <item>32</item>
+        <item>51</item>
+        <item>152</item>
+    </integer-array>
+
+    <string-array name="animation_index_list">
+        <item>MAD·AMV</item>
+        <item>MMD·3D</item>
+        <item>短片·手书·配音</item>
+        <item>综合</item>
+    </string-array>
+
+    <integer-array name="animation_id_list">
+        <item>24</item>
+        <item>25</item>
+        <item>47</item>
+        <item>27</item>
+    </integer-array>
+
+<!--    <string-array name="partition_info_list">
+        <item>国创</item>
+        <item>国产动画</item>
+        <item>国产原创相关</item>
+        <item>布袋戏</item>
+        <item>资讯</item>
+    </string-array>-->
+</resources>

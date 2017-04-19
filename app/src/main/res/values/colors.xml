@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FA7198</color>
+    <color name="colorPrimary">#FA7198</color>
+    <color name="colorPrimaryDark">#96435B</color>
+
+    <color name="gray_dark_alpha26">#44999999</color>
+    <color name="tab_text_color">#dcdcdc</color>
+    <color name="theme_color_primary">#fb7299</color>
+    <color name="night_alpha60">#992d2d2d</color>
+    <color name="theme_color_text_primary">#333333</color>
+
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+    <!-- 45%透明黑 -->
+    <color name="black_alpha">#71000000</color>
+</resources>

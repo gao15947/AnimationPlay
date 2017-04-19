@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ndkbitmap-armv7a-0.7.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/e299ad3680b2e7d7a42e76955f786b93d4d85b3d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e299ad3680b2e7d7a42e76955f786b93d4d85b3d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ctiao/ndkbitmap-armv7a/0.7.4/65d1519d81d160cfd84397202182239deca4a041/ndkbitmap-armv7a-0.7.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
